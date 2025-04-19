@@ -46,6 +46,8 @@ module swap_three_numbers (
     end
 endmodule
 
+## Simulated Output
+![Screenshot 2025-04-19 123804](https://github.com/user-attachments/assets/71b8be5b-3f12-438d-b95e-5387fb27a040)
 
 Testbench for Swapping Three Numbers:
 
